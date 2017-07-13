@@ -18,14 +18,9 @@ AeroGear Android Auth provides Pipe modules for HTTP Basic and HTTP Digest authe
 | Mailing lists:  | [aerogear-users](http://aerogear-users.1116366.n5.nabble.com/) ([subscribe](https://lists.jboss.org/mailman/listinfo/aerogear-users))  |
 |                 | [aerogear-dev](http://aerogear-dev.1069024.n5.nabble.com/) ([subscribe](https://lists.jboss.org/mailman/listinfo/aerogear-dev))  |
 
-## Building
+## Usage
 
-Please take a look at the [step by step guide](http://aerogear.org/docs/guides/aerogear-android/how-to-build-aerogear-android/) on our website.
-
-*The following dependencies are required to build this project:*
-
-* [aerogear-android-core](http://github.com/aerogear/aerogear-android-core) 
-* [aerogear-android-pipe](http://github.com/aerogear/aerogear-android-pipe) 
+There are two supported ways of developing apps using AeroGear for Android: Android Studio and Maven.
 
 ### Android Studio
 
